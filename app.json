@@ -1,0 +1,8 @@
+{
+  "name": "nginx-heroku-container-php-fpm",
+  "description": "Nginx template with supervisor and php-fpm using Docker for Heroku",
+  "repository": "https://github.com/natemacs",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg",
+  "keywords": [ "nginx", "heroku", "container", "supervisor", "php", "fpm", "template" ],
+  "stack": "container"
+}
